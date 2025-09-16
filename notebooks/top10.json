@@ -1,0 +1,52 @@
+[
+  {
+    "song": "Zafar",
+    "popularity": 44,
+    "duration": 262000
+  },
+  {
+    "song": "Va a Escampar",
+    "popularity": 46,
+    "duration": 281533
+  },
+  {
+    "song": "El Viejo",
+    "popularity": 43,
+    "duration": 187066
+  },
+  {
+    "song": "Llenos de Magia",
+    "popularity": 45,
+    "duration": 232093
+  },
+  {
+    "song": "Para No Verme Más",
+    "popularity": 59,
+    "duration": 245986
+  },
+  {
+    "song": "Clarobscuro",
+    "popularity": 39,
+    "duration": 308666
+  },
+  {
+    "song": "En el Limbo",
+    "popularity": 36,
+    "duration": 282426
+  },
+  {
+    "song": "De Atar",
+    "popularity": 42,
+    "duration": 244160
+  },
+  {
+    "song": "Por la Ciudad",
+    "popularity": 39,
+    "duration": 182666
+  },
+  {
+    "song": "Ves",
+    "popularity": 50,
+    "duration": 195240
+  }
+]
